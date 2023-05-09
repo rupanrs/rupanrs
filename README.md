@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rupanrs
-- 👀 I’m interested in Automation
+- 👀 I’m interested in Automation and Internet of Things (IoT).
 - 🌱 I’m currently learning Instrumentation Automation Technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
